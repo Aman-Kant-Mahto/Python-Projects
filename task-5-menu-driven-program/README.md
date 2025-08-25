@@ -1,4 +1,4 @@
-📖 Task 5: Menu-Driven Program in Python
+📖 Menu-Driven Program in Python
 
 This project showcases a menu-driven program in Python, allowing users to interact with various functionalities through a command-line interface.
 
